@@ -1,0 +1,6 @@
+{
+  "first-value": "one",
+  "second-level": {
+    "second-value": "two"
+  }
+}
